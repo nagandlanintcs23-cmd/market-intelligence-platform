@@ -1,3 +1,4 @@
+ HEAD
 
 ---
 
@@ -17,3 +18,7 @@
 ```bash
 git clone https://github.com/nagandlanintcs23-cmd/market-intelligence-platform.git
 cd market-intelligence-platform
+=======
+# market-intelligence-platform
+AI-powered compressed market &amp; competitor intelligence engine.
+3263fe4f639be43d67d30379166fb5185e69b165
